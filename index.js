@@ -102,7 +102,7 @@ function handleClick(index) {
         boxes[index].style.pointerEvents = "none";
         //swap karo turn ko
         swapTurn();
-        //check koi jeet toh nahi gya
+        //check koi jeet toh nahi gya 
         checkGameOver();
     }
 }
